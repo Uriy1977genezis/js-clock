@@ -1,0 +1,59 @@
+body {
+    display: flex;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+v body {
+    height: 100vh;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: center;
+    -ms-align-items: center;
+    align-items: center;
+    font-size: 10px;
+    background: linear-gradient(270deg, #27ecee, #ee27a0);
+    background-size: 400% 400%;
+    -webkit-animation: AnimationName 30s ease infinite;
+    -moz-animation: AnimationName 30s ease infinite;
+    animation: AnimationName 30s ease infinite;
+}
+
+#clock {
+    font-size: 5rem;
+    color: #fff;
+    font-family: 'Roboto'sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: center;
+    -ms-align-items: center;
+    align-items: center;
+    font-size: 10px;
+    background: linear-gradient(270deg, #27ecee, #ee27a0);
+    background-size: 400% 400%;
+    -webkit-animation: AnimationName 30s ease infinite;
+    -moz-animation: AnimationName 30s ease infinite;
+    animation: AnimationName 30s ease infinite;
+}
+
+#clock {
+    font-size: 5rem;
+    color: #fff;
+    font-family: 'Roboto'sans-serif;
+}
